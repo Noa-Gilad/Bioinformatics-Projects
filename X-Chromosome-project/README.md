@@ -1,1 +1,1 @@
-R project: a project investigating X chromosome silencig in c. elegans
+R project: Analysis of Small RNAs Involvement in X Chromosome Silencing
